@@ -69,11 +69,11 @@ endmodule
 ![waveform](https://github.com/user-attachments/assets/7d0d7274-11f5-479d-bbec-0f3c2122525d)
 ![waveform](https://github.com/user-attachments/assets/220e8dbd-faf2-462f-ad78-6e633f129f0e)
 
-
-
 **Result:**
-
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
+![waveform](https://github.com/user-attachments/assets/fc11bdef-b004-4201-9cfc-be231bfc5321)
+
 ![waveform](https://github.com/user-attachments/assets/d3df3680-572e-4a11-931c-ba3b520766f4)
 
 
